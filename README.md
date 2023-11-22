@@ -4,8 +4,8 @@
 - EventMaster este o platformă online care permite organizatorilor să creeze, să promoveze și să gestioneze evenimente, iar participanții să se înregistreze și să participe la aceste evenimente. Platforma facilitează gestionarea completă a ciclului de viață al evenimentelor.
 
 #### 2. Define 10 business requirements for the chosen business domain
-- Utilizatorii se pot inregistra si sa isi aleaga rolul: utilizator normal sau organizator
-- Ambii tipi de utilizatori isi pot modifica datele personale
+- Utilizatorii se pot inregistra, acestia vor avea 2 roluri de ales: utilizator normal sau organizator
+- Ambele tipuri de utilizatori isi pot modifica datele personale
 - Organizatorii pot crea evenimente completand diferite campuri pentru acesta precum nume, locatie, data, ora, pret intrare etc.
 - Utilizatorii pot gasi diverse evenimente cautand dupa nume, locatie, data, ora etc
 - Organizatorii vad lista participantilor si pot face modificari asupra ei 
