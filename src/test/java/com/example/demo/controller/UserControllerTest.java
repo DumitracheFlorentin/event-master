@@ -101,7 +101,7 @@ public class UserControllerTest {
 
     @Test
     public void testGetUserById() throws Exception {
-        Long userId = 22L;
+        Long userId = 4L;
 
         mockMvc.perform(MockMvcRequestBuilders.get("/api/users/" + userId))
                 .andExpect(MockMvcResultMatchers.status().isOk())
